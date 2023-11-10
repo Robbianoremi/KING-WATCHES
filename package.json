@@ -1,0 +1,15 @@
+{
+  "name": "king-wacthes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "acceuil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass acceuil.scss acceuil.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.69.5"
+  }
+}
